@@ -7,4 +7,6 @@ Feel free to open a pull request with any ideas or improvements, or open an issu
 ## Installation
 
 ```bash
-pip install gameforge
+    git clone https://github.com/henry-paschke/GameForgePython
+    cd GameForgePython
+    pip install .
